@@ -1,6 +1,6 @@
 This repository contains my solution to the Software Engineering 1 lab test from the second year of my Computer Science studies at TU Dublin.
 
-## Project Overview
+# Project Overview
 
 This project implements a **Library Management System** using UML modeling to manage books, copies, and members efficiently. Key features include:
 
